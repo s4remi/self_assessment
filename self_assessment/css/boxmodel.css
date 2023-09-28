@@ -1,0 +1,23 @@
+body {
+  background-color: #a7dbe3;
+  color: white;
+  font-size: 21px;
+}
+h1 {
+  font-size: 70px;
+  color: #3747b3;
+}
+p {
+  color: #2f4c5c;
+}
+
+/*margin:
+border:
+padding */
+.box {
+  background-color: green;
+  width: 300px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-left: 200px;
+}
